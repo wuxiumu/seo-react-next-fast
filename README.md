@@ -20,7 +20,7 @@
 3. **M3**：内容 MDX + i18n（zh/en）  
 4. **M4**：白标主题与一键部署说明  
 
-详见 `docs/ROADMAP.md`。
+详见 `docs/ROADMAP.md` / `docs/CHECKLIST-M0.md`。
 
 ## 定制合作（可报价）
 
